@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo Júlia Barros e tenho 16 anos.  Estou começando na área da programação, e espero aprender muito por aqui!!</p>
+<p align="left">Olá, me chamo Júlia Barros e tenho 17 anos.  Estou começando na área da programação, e espero aprender muito por aqui!!</p>
 
 ###
 
